@@ -1,1 +1,6 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=18587258)
+Name: Su Yi
+ID: 22103815d
+Hi, this is Ivan
+
+My Github Account: (https://github.com/IVANSU04)
+My streamlit app: https://feature-summary-u5btmgkyoretcjxv4nd5uq.streamlit.app/
